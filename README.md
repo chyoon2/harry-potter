@@ -5,8 +5,7 @@
 #### By _**Megan Hepner, Chris Yoon, Sarah Kane**_
 
 ## Description
-  This is a longer description
-
+  Discover your Hogwarts House. Be the first of your class to wear the Sorting Hat and begin your journey and a magical experience! 
 
 ## Setup/Installation Requirements
 
