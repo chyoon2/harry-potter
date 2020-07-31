@@ -2,7 +2,7 @@
 
 #### _Short Description, 6.19.20_
 
-#### By _**Megan Hepner**_
+#### By _**Megan Hepner, Chris Yoon, Sarah Kane**_
 
 ## Description
   This is a longer description
